@@ -7,7 +7,7 @@ Welcome to the [VISUM 2020 summer school](http://visum.inesctec.pt) official Git
 Here you can find all the materials used in the summer school.
 
 Courses:
-1. Introduction to Machine Learning and Computer Vision by Jaime Cardoso - available soon!
+1. Introduction to Machine Learning and Computer Vision by Jaime Cardoso - slides available [here](intro_ml_and_cv/presentation.pdf).
 2. Machine Learning on Kubernetes by Markus Bauer - you can find the materials for this course on this [repository](https://github.com/mbu93/visum-talk).
 3. Action Recognition in Video by Pascal Mettes - available soon!
 4. Optimal Transport in Computer Vision by Nicolas Courty - available soon!
