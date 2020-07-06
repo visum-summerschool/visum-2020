@@ -12,7 +12,7 @@ Courses:
 3. Action Recognition in Video by Pascal Mettes - you can download the notebook for the hands on session in [here](action_recogn/Action_Recognition_in_Video.ipynb).
 4. Optimal Transport in Computer Vision by Nicolas Courty - available soon!
 5. Explainable Artificial Intelligence (XAI) by Mauricio Reyes - available soon!
-6. Deep Learning and Kernel Machines by Johan Suykens - you can find the materials for this course [here](https://github.com/visum-summerschool/visum-2020/tree/master/dl_km)
+6. Deep Learning and Kernel Machines by Johan Suykens - you can find the materials for this course [here](dl_km/)
 7. Information Security by Marta Gomez-Barrero - available soon!
 
 Regarding the project component you can check [here](https://github.com/visum-summerschool/visum-competition2020).
