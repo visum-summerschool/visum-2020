@@ -32,4 +32,4 @@ And run Jupyter-Lab:
 $ jupyter-lab
 ```
 ### Google Colaboratory Version
-To run the Notebooks on your [Google Drive](https://drive.google.com) you need to use [Google Colaboratory](colab.research.google.com). We have already prepared a ZIP file, that you can download [here](https://filesender.fccn.pt/filesender/?vid=2b7fdf40-2ae3-9749-3a56-000028887046). Decompress the ZIP file and upload the "VISUM 2020" folder to the main directory of your Google Drive. Open **"VISUM 2020/Optimal Transport/Hands-On Google Colaboratory"** folder and run the Notebooks from there.
+To run the Notebooks on your [Google Drive](https://drive.google.com) you need to use [Google Colaboratory](https://colab.research.google.com). We have already prepared a ZIP file, that you can download [here](https://filesender.fccn.pt/filesender/?vid=2b7fdf40-2ae3-9749-3a56-000028887046). Decompress the ZIP file and upload the "VISUM 2020" folder to the main directory of your Google Drive. Open **"VISUM 2020/Optimal Transport/Hands-On Google Colaboratory"** folder and run the Notebooks from there.
