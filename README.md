@@ -13,6 +13,6 @@ Courses:
 4. Explainable Artificial Intelligence (XAI) by Mauricio Reyes - you can find the materials for this course [here](xAI)
 5. Deep Learning and Kernel Machines by Johan Suykens - you can find the materials for this course [here](dl_km/)
 6. Optimal Transport in Computer Vision by Nicolas Courty - you can find the materials for this course [here](optimal-transport-cv)
-7. Information Security by Marta Gomez-Barrero - you can find the materials for this course [here](info-secur)
+7. Information Security by Marta Gomez-Barrero - you can find the materials for this course [here](info_secur)
 
 Regarding the project component you can check [here](https://github.com/visum-summerschool/visum-competition2020).
