@@ -16,4 +16,5 @@ Courses:
 7. Information Security by Marta Gomez-Barrero - you can find the materials for this course [here](info_secur)
 
 Regarding the project component you can check [here](https://github.com/visum-summerschool/visum-competition2020).
+
 The winner of the project competition was Rocket Team. You can find their presentation in [here](Rocket_Team_Visum_Competition_2020.pdf)
