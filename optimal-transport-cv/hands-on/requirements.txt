@@ -56,7 +56,7 @@ pandocfilters==1.4.2
 parso==0.7.0
 pexpect==4.8.0
 pickleshare==0.7.5
-Pillow==7.1.2
+Pillow==8.3.2
 pop==13
 pop-config==6.8
 POT==0.7.0
