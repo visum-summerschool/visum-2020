@@ -1,6 +1,6 @@
 nested_dict==1.61
 h5py==2.8.0
-numpy==1.18.4
+numpy==1.22.0
 scipy==1.2.1
 torch==1.4.0
 torchvision==0.5.0
